@@ -1,9 +1,10 @@
 # Programming for Data Analysis - Project
+
 ### Analysing a data set on world population growth
 
 #### Introduction
 
-On July 11 2022, the Reuters news organisations reported that a just-published United Nations study revealed that in 2023 India would surpass China as the most populous country on our planet.  I have always been interested in the phenomenon of population growths (as well as fluctuating fertility rates within individual countries) and what this tells us about the future of our societies and teh effect on our economies as well as the natural environment. The subject of population growth seems particularly relevant at the present moment, when there is so much anxiety about the damage which man-made processes are wreaking on our environment and the resulting effect on climate change.  Does the inevitable increase in consumption of natural resources brought about by population growth present an equal threat to our environment as that of industrial pollution and the burning of fossil fuels? I hoped to explore a datset with figures on population growth over recent decadees in odrder to tale a closer look at this phenomenon and see what inisghts could be gleaned
+
 
 I sourced a dataset on world population growth from the popular data science website Kaggle. Link below:
 

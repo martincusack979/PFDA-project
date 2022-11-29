@@ -3,7 +3,7 @@
 
 #### Introduction
 
-On 2022, India surpassed China as the most populous coutry on our planet.  I have always been interested in teh phenomenon of population growths (as well as fluctuating 
+On 2022, India surpassed China as the most populous country on our planet.  I have always been interested in teh phenomenon of population growths (as well as fluctuating 
 fertility rates within individual countries) and this seems particularly relevant at the present moment, when there is so much anxiety about the damage which man-made processes are wreaking on our environment and the resulting effect on climate change.  Does the inevitable ramping up of consumption and use of natural resources population growth present a similar threat to our environment as that of industrial pollution and the burning of fossil fuels?
 NOTE: the dataset which I chose to work ononly has data up to the earlt pasrt of 2022 and so displays China as the world's most populous nation.  As noted above, thsi situation has now changed and India, with )))))))), now has the world's largest population
 

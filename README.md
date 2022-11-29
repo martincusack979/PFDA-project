@@ -10,6 +10,10 @@ I sourced a dataset on world population growth from the popular data science web
 
 https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis/data?select=world_population.csv
 
+Reuters link: 
+
+https://www.reuters.com/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/
+
 
 ### Checking for null values
 There are no null values in this data set.

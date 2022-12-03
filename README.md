@@ -1,5 +1,9 @@
 # Programming for Data Analysis - Project
 
+Martin Cusack 
+
+Student ID: G00239124
+
 ### Analysing a data set on world population growth
 
 #### Introduction

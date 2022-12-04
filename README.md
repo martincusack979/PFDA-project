@@ -31,8 +31,6 @@ https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.n
 
 https://www.w3schools.com/python/pandas/pandas_dataframes.asp
 
-### OTHER SOURCES
-
 numpy.org
 
 pandas.pydata.org

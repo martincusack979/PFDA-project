@@ -6,7 +6,7 @@ Student ID: G00239124
 
 ### Analysing a data set on world population growth
 
-### References
+### REFERENCES
 
 I sourced a dataset on world population growth from the popular data science website Kaggle. Link below:
 
@@ -20,9 +20,24 @@ Information on how to drop columns:
 
 Reference: https://stackoverflow.com/questions/40389018/dropping-multiple-columns-from-a-dataframe#:~:text=To%20delete%20multiple%20columns%20at,Otherwise%20remove%20it.&text=Save%20this%20answer.,-Show%20activity%20on
 
+How to generate random numbers:
+
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html#numpy.random.Generator.normal
+
+https://www.w3schools.com/python/pandas/pandas_dataframes.asp
+
+### OTHER SOURCES
+
 numpy.org
+
+pandas.pydata.org
+
 matplotlib.org
+
 seaborn.pydata.org
+
 stackoverflow.com
+
 stackabuse.com
 
+w3schools.com

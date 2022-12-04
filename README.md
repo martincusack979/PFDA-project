@@ -24,9 +24,13 @@ How to generate random numbers:
 
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html#numpy.random.Generator.normal
 
+https://www.w3schools.com/python/pandas/pandas_dataframes.asp
+
 ### OTHER SOURCES
 
 numpy.org
+
+pandas.pydata.org
 
 matplotlib.org
 
@@ -36,3 +40,4 @@ stackoverflow.com
 
 stackabuse.com
 
+w3schools.com

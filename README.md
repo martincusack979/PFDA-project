@@ -24,6 +24,8 @@ Reference: https://stackoverflow.com/questions/40389018/dropping-multiple-column
 
 numpy.org
 
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html#numpy.random.Generator.normal
+
 matplotlib.org
 
 seaborn.pydata.org

@@ -9,7 +9,7 @@ Student ID: G00239124
 This repository contains a Jupyter notebook, ReadMe file, images and dataset in CSV format. 
 
 ### Project Notebook
-In this notebook I wanted to explore a dataset with figures on population growth over recent decades in order to take a closer look at this phenomenon and see what insights could be gleaned. I sourced a dataset on world population growth from the popular data science website Kaggle. The Notebook details the anlaysis of this dataset and my efforts to synthesise a dataset of random numbers to check if the resulting visualisations resembled my original findings.
+In this notebook I wanted to explore a dataset with figures on population growth over recent decades in order to take a closer look at this phenomenon and see what insights could be gleaned. I sourced a dataset on world population growth from the popular data science website Kaggle. The Notebook details the analysis of this dataset and my efforts to synthesise a dataset of random numbers to check if the resulting visualisations resembled my original findings.
 
 ### References
 
